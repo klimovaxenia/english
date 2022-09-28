@@ -1,5 +1,6 @@
 
-- [Lesson 1 Articles, Pronouns, to be](https://github.com/klimovaxenia/english/blob/main/lessons-david.md#lesson-1-%E1%83%92%E1%83%90%E1%83%99%E1%83%95%E1%83%94%E1%83%97%E1%83%98%E1%83%9A%E1%83%98-1) 
+- [Lesson 1 Articles, Pronouns, to be](https://github.com/klimovaxenia/english/blob/main/lessons-david.md#lesson-1-%E1%83%92%E1%83%90%E1%83%99%E1%83%95%E1%83%94%E1%83%97%E1%83%98%E1%83%9A%E1%83%98-1)
+- [Lesson 2 Singular & Plural Nouns, Do Does](https://github.com/klimovaxenia/english/blob/main/lessons-david.md#lesson-2)
 
 # Lesson 1 გაკვეთილი 1
 
