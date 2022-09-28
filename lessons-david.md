@@ -36,11 +36,11 @@ They are student**s** - ისინი სტუდენტები არი
 Singular მხოლობითი | Plural მრავლობითი
 -------------------|-------------------
 Noun -             | Noun +  -s, -es, -ies, -ves
-doll               | doll**s**
-ocean              | ocean**s**
-bab**y**               | bab**ies**
-bu**s**                | bus**es**
-kni**fe**              | kni**ves**
+doll თოჯინა        | doll**s** თოჯინები
+ocean ოკეანის      | ocean**s** ოკეანეები
+bab**y** ბავშვი    | bab**ies** ჩვილები
+bu**s** ავტობუსი   | bus**es** ავტობუსები
+kni**fe** დანა     | kni**ves** დანები
 
 
 ### Verbs
@@ -48,13 +48,13 @@ kni**fe**              | kni**ves**
 I, you, they   | she, he, it
 :-------------:|:--------------:
 Verb -         | Verb + es, s
-do             | does
-look           | looks
-run            | runs
+do делать      | does
+look смотреть  | looks
+run бежать     | runs
 
 **to do** - делать, კეთება  
 
-I do  
+I **do**  
 she / he / it **does**  
 you **do**  
 they **do**  
@@ -66,3 +66,35 @@ she / he / it - **has**
 you **have**  
 they **have**  
 
+### Questions Do, Does კითხვები
+
+Do / Does noun verb ... ?
+
+I, you, they - Do  
+she, he, it - Does  
+
+Do I have a knife?  
+Do you have a doll?  
+Do they run?  
+Does she look good? Yes, she look**s** good.
+
+####To learn выучить:
+
+english | russian
+--------|---------
+do      | делать
+have    | владеть, иметь
+look    | смотреть
+run     | бежать
+take    | взять
+listen  | слушать
+like    | нравится
+love    | любить
+doll    | кукла
+ball    | мяч
+ocean   | океан
+baby    | ребенок, малыш
+bus     | автобус
+knife   | нож
+sea     | море
+tea     | чай
