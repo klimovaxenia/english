@@ -78,7 +78,7 @@ Do you have a doll?
 Do they run?  
 Does she look good? Yes, she look**s** good.
 
-####To learn выучить:
+#### To learn выучить:
 
 english | russian
 --------|---------
