@@ -92,7 +92,7 @@ I, you, they - Do
 she, he, it - Does  
 
 Do I have a knife?  
-Do you play the piano?  
+Do you play piano?  
 Do they live in Tbilisi?  
 Does she look good? Yes, she look**s** good.
 
