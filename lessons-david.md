@@ -98,7 +98,7 @@ Am / Is / Are subject adjective (ზედსართავი სახელ�
 
 **Am** I ... ?  
 **Is** she / he / it ... ?  
-**Are** you ... ?
+**Are** you ... ?  
 **Are** we ... ?  
 **Are** they ... ?  
 
