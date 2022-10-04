@@ -1,5 +1,5 @@
 
-# Lesson 1 გაკვეთილი 1
+## Lesson 1 გაკვეთილი 1
 
 ### Articles სტატიები
 
@@ -31,7 +31,7 @@ It is the ocean. - ეს არის ოკეანე.
 You are student. - სტუდენტი ხარ.  
 They are student**s** - ისინი სტუდენტები არიან.  
 
-# Lesson 2
+## Lesson 2
 
 ### Singular and Plular Nouns მხოლობითი და მრავლობითი არსებითი სახელები
 
@@ -90,7 +90,7 @@ knife   | нож
 sea     | море
 tea     | чай
 
-# Lesson 3
+## Lesson 3
 
 ### Questions Am, Are, Is კითხვები
 
