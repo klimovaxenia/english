@@ -140,7 +140,7 @@ english | russian
 come    | прийти
 see     | видеть
 say     | сказать что-то
-talk    | говорить, болать
+talk    | говорить
 get     | получить
 take    | взять
 make    | сделать
