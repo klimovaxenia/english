@@ -111,8 +111,11 @@ Are they students?
 
 Do / Does subject verb ... ?
 
-I, you, they, we - Do  
-she, he, it - Does  
+**Do** I ... ?  
+**Does** she / he / it ... ?  
+**Do** you ... ?  
+**Do** we ... ?  
+**Do** they ... ?   
 
 Do I have a knife?  
 Do you play piano?  
