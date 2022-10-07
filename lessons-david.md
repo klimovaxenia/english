@@ -15,6 +15,12 @@ you - ты, вы
 we - мы  
 they - они  
 
+x      | Singular      | Plural
+---    |:------------: |:--------:
+1 лицо | I             | We
+2 лицо | You           | You 
+3 лицо | She / He / It | THey
+
 ### Verb ზმნა
 
 **to be** - быть
@@ -144,4 +150,67 @@ talk    | говорить
 get     | получить
 take    | взять
 make    | сделать
+
+## Lesson 4 Negative 
+
+### I am not (I'm not) / He is not (He isn't) / You are not (You aren't)
+
+I **am not** ...  
+You **are not** ...  
+We **are not** ...
+She / He / It **is not** ...  
+They **are not** ...  
+
+I **am not** Georgian.  
+We **are not** from England.  
+You **are not** a student.  
+It **is not** my dog.  
+They **are not** my friends.
+
+### do not (don't) / does not (doesn't)  
+
+I **do not V** ...  
+We **do not V** ...  
+You **do not V** ...  
+She / He / It **does not V** ...  
+They **do not V** ...  
+
+I **do not like** cats.  
+We **don't want** cakes.  
+You **don't go** to school tomorrow.  
+He **does not have** a pen.  
+They **don't have** friends.   
+
+#### To learn  
+
+english | russian
+--------|---------
+my      | моё
+our     | наше
+your    | твой, ваш
+her     | её
+his     | его
+its     | 
+their   | их
+
+english | russian
+--------|---------
+often   | часто
+usually | обычно
+always  | всегда
+every   | очень
+all     | все
+any     | любой
+some    | некоторый, чуть-чуть
+other   | другой
+tomorrow| завтра 
+yesterday|  вчера
+dog     | собака
+friend  | друг
+school  | школа
+city    | город
+shop    | магазин
+house   | дом
+room    | комната
+work    | работа
 
