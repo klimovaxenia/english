@@ -214,3 +214,23 @@ house   | дом
 room    | комната
 work    | работа
 
+#### Exercises
+
+I ... (be) ten.   
+He ... (be) a boy.  
+It ... (be) she ocean.  
+You ... (be) student.  
+They ... (be) students.  
+My friend ... (have) a dog.  
+I ... (have) friends.  
+She ... (look) good.  
+David ... (do) homework every day.  
+David and Mary ... (do) homework every morning.  
+You ... (play) basketball.  
+... (Do) they ... (live) in Tbilisi?  
+... (Do) you ... (like) tea?   
+... (Do) she ... (look) good?  
+... (Be) she a student?  
+... (Be) it a cat?  
+... (Be) we friends?  
+
