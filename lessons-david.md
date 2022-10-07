@@ -216,21 +216,22 @@ work    | работа
 
 #### Exercises
 
-1. I ... (be) ten.   
-2. He ... (be) a boy.  
-3. It ... (be) she ocean.  
-4. You ... (be) student.  
-5. They ... (be) students.  
-6. My friend ... (have) a dog.  
-8. I ... (have) friends.  
-9. She ... (look) good.  
-10. David ... (do) homework every day.  
-11. David and Mary ... (do) homework every morning.  
-12. You ... (play) basketball.  
-13. ... (Do) they ... (live) in Tbilisi?  
-14. ... (Do) you ... (like) tea?   
-15. ... (Do) she ... (look) good?  
-16. ... (Be) she a student?  
-17. ... (Be) it a cat?  
-18. ... (Be) we friends?  
+1. I ... (be) ten.
+2. He ... (be) a boy.
+3. It ... (be) she ocean.
+4. You ... (be) student.
+5. They ... (be) students.
+6. My friend ... (have) a dog.
+8. I ... (have) friends.
+9. She ... (look) good.
+10. David ... (do) homework every day.
+11. David and Mary ... (do) homework every morning.
+12. You ... (play) basketball.
+13. ... (Do) they ... (live) in Tbilisi?
+14. ... (Do) you ... (like) tea?
+15. ... (Do) she ... (look) good?
+1. ... (Do) she ... (have) a doll? Yes, she ... (have). 
+16. ... (Be) she a student?
+17. ... (Be) it a cat?
+18. ... (Be) we friends?
 
