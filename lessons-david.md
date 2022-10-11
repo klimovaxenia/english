@@ -151,6 +151,15 @@ get     | получить
 take    | взять
 make    | сделать
 
+What is your name?  
+Why are you so sad?  
+When do we go to school?  
+How do you do?  
+How are you?  
+Where do you play basketball?  
+Who is your favorite dog?  
+Which one do you like?  
+
 ## Lesson 4 Negative 
 
 ### I am not (I'm not) / He is not (He isn't) / You are not (You aren't)
@@ -218,7 +227,7 @@ work    | работа
 
 1. I ... (be) ten.
 2. He ... (be) a boy.
-3. It ... (be) she ocean.
+3. It ... (be) the ocean.
 4. You ... (be) student.
 5. They ... (be) students.
 6. My friend ... (have) a dog.
@@ -234,4 +243,63 @@ work    | работа
 16. ... (Be) she a student?
 17. ... (Be) it a cat?
 18. ... (Be) we friends?
+
+## Lesson 5 Negative Questions
+
+### Am not / Isn't / Aren't
+
+**Am / Is / Are** Subject **not** Verb ... ?  
+**Isn't / Aren't** Subject Verb ... ?  
+
+**Am** I **not** ... ?  
+**Are** we **not** ... ? / **Aren't** we ... ?  
+**Are** you **not** ... ? / **Aren't** you ... ?  
+**Is** she / he / it **not** ... ? / **Isn't** she / he / it ... ?  
+**Are** they **not** ... ? / **Aren't** they ... ?  
+
+Am I not a student?  
+Aren't we friends?  
+Are you not serious?  
+Isn't it sad?  
+Aren't they funny?  
+
+### Don't / Doesn't
+
+**Do / Does** Subject **not** Verb ... ?  
+**Don't / Doesn't** Subject Verb ... ?  
+
+**Do** I **not** V ... ? / **Don't** I V ... ?  
+**Do** we **not** V ... ? / **Don't** we V ... ?  
+**Do** you **not** V ... ? / **Don't** you V ... ?  
+**Does** she / he / it **not** V ... ? / **Dosn't** she / he / it V ... ?  
+**Do** they **not** V ... ? / **Don't** they V ... ?  
+
+Do I not work every day?  
+Don't we run every morning?  
+Don't you have a dog?  
+Doe**s** he not **have** a dog?  Yes, he has a dog.  
+Doe**s**n't she **have** a cat? No, she doesn't (does not) **have** a cat. She **has** a dog.  
+Don't they play basketball?  
+
+#### Exercises
+
+to be and not (Am not, isn't, aren't)
+
+1. ... I ... nice?
+2. ... they friends?
+3. ... you student?
+4. ... dogs funny?
+5. ... this cat white?
+6. ... David a good student? :)
+7. ... David and Mary ... brother and sister?
+8. ... we friends?
+
+Don't, Do ... not / Doesn't, Does ... not
+
+1. ... I run with my dog every morning?
+2. ... he brush his teeth every morning?
+3. ... dogs like meat?
+4. ... David **play** basketball? Yes, he ... basketball.
+5. ... David and Mary have dogs? Yes, they ... dogs.
+6. ... we go to school on Sundays?
 
