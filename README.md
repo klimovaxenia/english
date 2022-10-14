@@ -3,7 +3,9 @@
 - [Lesson 2 Singular and Plural Nouns, Present Simple](https://klimovaxenia.github.io/english/lessons-david#lesson-2)
 - [Lesson 3 Questions Am, Is, Are / Do, Does](https://klimovaxenia.github.io/english/lessons-david#lesson-3)
 - [Lesson 4 Negative](https://klimovaxenia.github.io/english/lessons-david#lesson-4-negative)
-- [Lesson 5 Negative Questions](https://klimovaxenia.github.io/english/lessons-david#lesson-5-negative-questions)  
+- [Lesson 5 Negative Questions](https://klimovaxenia.github.io/english/lessons-david#lesson-5-negative-questions)
+
+-----------------------------------------------------------------------------------
 
 - [Exercises](https://klimovaxenia.github.io/english/exercises-david)
 
