@@ -9,3 +9,9 @@
 
 - [Exercises](https://klimovaxenia.github.io/english/exercises-david)
 
+-----------------------------------------------------------------------------------
+
+## [Homework]()
+
+- [25.10.2022]()
+
