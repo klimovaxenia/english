@@ -19,7 +19,7 @@ english | russian
 pretty  | красивый/милый, достаточно ... 
 big     | большой
 small   | маленький
-grate   | великий, отличный
+great   | великий, отличный
 beautiful| красивый
 wonderful| замечательный
 funny   | смешной
@@ -40,7 +40,7 @@ someone | кто-то
 somebody| кто-то
 sometimes| иногда, в какие-то разы/случаи
 
-### read and learn прочитать и выучить
+### read and translate прочитать и перевести
 
 A: I like to live here.
 
