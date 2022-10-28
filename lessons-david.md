@@ -194,16 +194,6 @@ They **don't have** friends.
 
 english | russian
 --------|---------
-my      | моё
-our     | наше
-your    | твой, ваш
-her     | её
-his     | его
-its     | 
-their   | их
-
-english | russian
---------|---------
 often   | часто
 usually | обычно
 always  | всегда
@@ -261,4 +251,17 @@ Doe**s** he not **have** a dog?  Yes, he has a dog.
 Doe**s**n't she **have** a cat? No, she doesn't (does not) **have** a cat. She **has** a dog.  
 Don't they play basketball?  
 
+## Lesson 6 Modal Verbs can, may, must
+
+can / may / must + ~~to~~ Verb  
+Can + Subjest + Verb (no -s)
+
+Can he paly chess?  
+May she go to grandmothey next week? Yes, she **goes** to grany every Sunday.  
+
+english | russian
+--------|---------
+can     | могу, способен 
+may     | можно
+must    | должен
 

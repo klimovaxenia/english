@@ -66,3 +66,45 @@ A: The people are friendly.
 
 B: I don't want to leave this city.
 
+## 28.10.2022
+
+### read and learn читать и учить
+
+english | russian
+--------|---------
+can     | могу, способен 
+may     | можно
+must    | должен
+
+english | russian
+--------|---------
+first   | первый
+second  | второй
+third   | третий
+four**th** | четвертый
+
+english | russian
+--------|---------
+my      | моё
+our     | наше
+your    | твой, ваш
+her     | её
+his     | его
+its     | 
+their   | их
+
+### read and translate читать и переводить
+
+##### My name is John
+
+Hi! Nice to meet you! My name is John Smith. I am 19 and a student in college. I go to college in New York.  
+My favorite courses are Geometry, French, and History. English is very hard course for me.  
+My professors are very friendly and smart. It’s my second year in college now. I love it!
+
+I live in a big house on Ivy Street. It’s close to the college campus. I live in the house with three other students.  
+Their names are Bill, Tony, and Paul. We help each other with homework. On the weekend, we play football together.
+
+I have a brother. He just started high school. He is 14 and lives with my parents.  
+They live on Mulberry Street in Boston. Sometimes they visit me in New York.  
+I am happy when they visit. My Mom always brings me sweets and candy when they come. I really miss them, too!
+

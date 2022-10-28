@@ -193,3 +193,51 @@ A: Well, I guess that's it.
 
 B: Yes, that's all I need for now.
 
+### 4
+
+1. I want **to** play basketball.  
+2. I can play basketball.  
+3. Can I play basketball with you?  
+4. You want **to** have a new bicycle.  
+5. You may have a new bicycle.  
+6. May I have a new car? No, but you may have a new bicycle.  
+7. He goes to school every morning.  
+8. He must go to school every morning.  
+
+english | russian
+--------|---------
+can     | могу, способен 
+may     | можно
+must    | должен
+
+english | russian
+--------|---------
+first   | первый
+second  | второй
+third   | третий
+four**th** | четвертый
+
+english | russian
+--------|---------
+my      | моё
+our     | наше
+your    | твой, ваш
+her     | её
+his     | его
+its     | 
+their   | их
+
+
+##### My name is John
+
+Hi! Nice to meet you! My name is John Smith. I am 19 and a student in college. I go to college in New York.  
+My favorite courses are Geometry, French, and History. English is very hard course for me.  
+My professors are very friendly and smart. It’s my second year in college now. I love it!
+
+I live in a big house on Ivy Street. It’s close to the college campus. I live in the house with three other students.  
+Their names are Bill, Tony, and Paul. We help each other with homework. On the weekend, we play football together.
+
+I have a brother. He just started high school. He is 14 and lives with my parents.  
+They live on Mulberry Street in Boston. Sometimes they visit me in New York.  
+I am happy when they visit. My Mom always brings me sweets and candy when they come. I really miss them, too!
+
