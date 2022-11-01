@@ -16,3 +16,9 @@
 - [25.10.2022](https://klimovaxenia.github.io/english/homework#25102022)
 - [28.10.2022](https://klimovaxenia.github.io/english/homework#28102022)
 
+Monday | Tuesday          | Wednesday | Thursday | Friday          | Saturday | Sunday
+-------|------------------|-----------|----------|-----------------|----------|---------
+       | 14:00 - english  |           |          | 14:00 - english |          |
+       | 15:30 - homework |           |          |                 |          |
+       | dances           |           |          |                 |          |
+
