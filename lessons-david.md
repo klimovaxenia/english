@@ -265,3 +265,23 @@ can     | могу, способен
 may     | можно
 must    | должен
 
+## Lesson 7 Present Continuous
+
+Subject + be (am, is, are) + **V**ing ... (You are doing something right now)
+
+I am doing ...  
+We are doing ...  
+He / She / It is doing ...  
+You are doing ...  
+They are doing ...  
+
+### Questions
+
+Be (Am, Is, Are) + Subject + **V**ing ... ?
+
+Am I doing ... ?  
+Are we doing ... ?  
+Is he / she / it doing ... ?  
+Are you doing ... ?  
+Are they doing ... ?  
+

@@ -46,7 +46,7 @@ Don't, Do ... not / Doesn't, Does ... not
 
 ### №3  Dialogues
 
-####1
+#### 1)
 
 A: Where do you live?  
 B: I live in Tbilisi.  
@@ -61,7 +61,7 @@ B: It has about 1 million people.
 A: How big is Los Angeles?  
 B: It has about 3 million people.  
 
-#### 2
+#### 2)
 
 A: Do you have a girlfriend?
 
@@ -87,13 +87,13 @@ A: But girls like guys who are funny.
 
 B: Maybe we should learn some good jokes.
 
-#### 3
+#### 3)
 
 A: My laptop is so slow.
 
 B: Buy a new one.
 
-A: I would if I had the money.
+A: I don't have the money.
 
 B: Why is it so slow?
 
@@ -113,7 +113,7 @@ A: Why not?
 
 B: You might hit someone in the head.
 
-#### 4
+#### 4)
 
 *for homework*
 
@@ -141,7 +141,7 @@ A: The people are friendly.
 
 B: I don't want to leave this city.
 
-#### 5
+#### 5)
 
 A: Do you go to school?
 
@@ -167,7 +167,7 @@ A: Anything else?
 
 B: Yes. It's not expensive!
 
-#### 6
+#### 6)
 
 A: What do you need for school?
 
@@ -193,7 +193,7 @@ A: Well, I guess that's it.
 
 B: Yes, that's all I need for now.
 
-### 4
+### № 4
 
 1. I want **to** play basketball.  
 2. I can play basketball.  
@@ -237,7 +237,16 @@ My professors are very friendly and smart. It’s my second year in college now.
 I live in a big house on Ivy Street. It’s close to the college campus. I live in the house with three other students.  
 Their names are Bill, Tony, and Paul. We help each other with homework. On the weekend, we play football together.
 
-I have a brother. He just started high school. He is 14 and lives with my parents.  
+I have a brother. He is in high school. He is 14 and lives with my parents.  
 They live on Mulberry Street in Boston. Sometimes they visit me in New York.  
 I am happy when they visit. My Mom always brings me sweets and candy when they come. I really miss them, too!
+
+### № 5
+
+1. Do you do your homework every day? Yes, I do. And I'm doing my homework right now.  
+2. Does he do his homework every day? No, he doesn't. But he is doing his homework right now.  
+3. He plays basketball.  
+4. Does he play basketball?  
+5. They dance very well.  
+6. Do they dance very well?  
 
