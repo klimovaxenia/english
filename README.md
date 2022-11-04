@@ -4,6 +4,9 @@
 - [Lesson 3 Questions Am, Is, Are / Do, Does](https://klimovaxenia.github.io/english/lessons-david#lesson-3)
 - [Lesson 4 Negative](https://klimovaxenia.github.io/english/lessons-david#lesson-4-negative)
 - [Lesson 5 Negative Questions](https://klimovaxenia.github.io/english/lessons-david#lesson-5-negative-questions)
+- [Lesson 6 Modal Verbs](https://klimovaxenia.github.io/english/lessons-david#lesson-7-present-continuous)
+- [Lesson 7 Present Continuous](https://klimovaxenia.github.io/english/lessons-david#lesson-7-present-continuous)
+- [Lesson 8 Past Simple](https://klimovaxenia.github.io/english/lessons-david#lesson-8-past-simple)
 
 -----------------------------------------------------------------------------------
 
@@ -15,10 +18,11 @@
 
 - [25.10.2022](https://klimovaxenia.github.io/english/homework#25102022)
 - [28.10.2022](https://klimovaxenia.github.io/english/homework#28102022)
+- [03.11.2022](https://klimovaxenia.github.io/english/homework#03112022)
 
 Monday | Tuesday          | Wednesday | Thursday | Friday          | Saturday | Sunday
 -------|------------------|-----------|----------|-----------------|----------|---------
        | 14:00 - english  |           |          | 14:00 - english |          |
        | 15:30 - homework |           |          |                 |          |
-       | dances           |           |          |                 |          |
+       | dance class      |           |          |                 |          |
 

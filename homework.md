@@ -108,27 +108,19 @@ I have a brother. He just started high school. He is 14 and lives with my parent
 They live on Mulberry Street in Boston. Sometimes they visit me in New York.  
 I am happy when they visit. My Mom always brings me sweets and candy when they come. I really miss them, too!
 
-## 01.11.2022
+## 03.11.2022
 
-### read and learn
+I form | II form | III form
+-------|---------|----------
+be     | was/were|was/were
+do     | did     | done
+see    | saw     | seen
+go     | went    | gone
+fly    | flew    | flown
+put    | put     | put
+take   | took    | taken
+think  | thought | thought
+run    | ran     | run
+swim   | swam    | swum
 
-english | russian
---------|---------
-do      | делать
-have    | владеть, иметь
-want    | хотеть
-look    | смотреть на что-то
-go      | идти
-live    | жить
-listen  | слушать
-like    | нравится
-love    | любить
-doll    | кукла
-ball    | мяч
-ocean   | океан
-baby    | ребенок, малыш
-bus     | автобус
-knife   | нож
-sea     | море
-tea     | чай
 

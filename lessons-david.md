@@ -285,3 +285,20 @@ Is he / she / it doing ... ?
 Are you doing ... ?  
 Are they doing ... ?  
 
+## Lesson 8 Past Simple
+
+### Verbs
+
+I form | II form | III form
+-------|---------|----------
+be     | was/were|was/were
+do     | did     | done
+see    | saw     | seen
+go     | went    | gone
+fly    | flew    | flown
+put    | put     | put
+take   | took    | taken
+think  | thought | thought
+run    | ran     | run
+swim   | swam    | swum
+
