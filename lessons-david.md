@@ -302,3 +302,60 @@ think  | thought | thought
 run    | ran     | run
 swim   | swam    | swum
 
+## Lesson 9
+
+positive degree | comparative degree | superlative degree
+----------------|--------------------|---------------------
+big             | big**ger**         | **the** big**est**
+hot             | hot**ter**         | **the** hot**test**
+fat             | fat**ter**         | **the** fat**test**
+good            | **better**         | **the best**
+bad             | **worse**          | **the worst**
+little          | **less**           | **the least**
+old             | old**er**          | **the** old**est**
+
+positive degree | comparative degree | superlative degree
+----------------|--------------------|---------------------
+beautiful       | **more** beautiful | **the most** beautiful
+competent       | **more** competent | **the most** competent
+
+more - более  
+most - самый
+
+It is the best day of my life.— Это лучшие день в моей жизни.  
+It was the worst party in my life. — Это была худшая вечеринка в моей жизни. 
+
+— Who do you think will win, Ethan or Joe? (Как думаешь, кто победит: Итан или Джо?)  
+— Joe, because he’s smarter. (Джо, потому что он умнее.)  
+
+My little brother is a lot more confident than me. — Мой младший брат намного увереннее в себе, чем я.  
+
+#### We will rock you
+
+Buddy, you're a boy, make a big noise  
+Playing in the street, gonna be a big man someday  
+You got mud on your face, you big disgrace  
+Kicking your can all over the place, singin'  
+
+We will, we will rock you  
+We will, we will rock you  
+
+Buddy, you're a young man, hard man  
+Shouting in the street, gonna take on the world someday  
+You got blood on your face, you big disgrace  
+Waving your banner all over the place  
+
+We will, we will rock you, sing it!  
+We will, we will rock you  
+
+Buddy, you're an old man, poor man  
+Pleading with your eyes, gonna make you some peace someday  
+You got mud on your face, big disgrace  
+Somebody better put you back into your place  
+
+We will, we will rock you, sing it  
+We will, we will rock you, everybody  
+We will, we will rock you, hmm  
+We will, we will rock you  
+Alright  
+
