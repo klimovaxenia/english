@@ -359,3 +359,87 @@ We will, we will rock you, hmm
 We will, we will rock you  
 Alright  
 
+
+#### Места
+
+country — страна;  
+city — город;  
+street — улица;  
+work — работа;  
+school — школа;  
+shop — магазин;  
+house — дом;  
+room — комната.  
+
+### Предметы
+
+car — машина;  
+paper — бумага;  
+pen — ручка;  
+door — дверь;  
+chair — стул;  
+table — стол;  
+money — деньги.  
+
+### Нематериальные вещи
+
+way — путь, способ;  
+end — конец;  
+price — цена;  
+question — вопрос;  
+answer — ответ;  
+number — номер.  
+
+### Verbs
+
+be — was/were - been - быть;  
+have — had - had - иметь;  
+do — did - done - делать;  
+get — got - got/gotten - получать;  
+can — could - been able - мочь;  
+feel — felt - felt - чувствовать;  
+live — lived - lived - жить;  
+love — loved - lived - любить;  
+want — wamted - wanted - хотеть;  
+say — said - said - сказать;  
+tell — told - told - говорить;  
+see — saw - seen - видеть;  
+hear — heard - heard - слышать;  
+listen — listened - listened - слушать;  
+believe — belived - belived - верить;  
+take — took - taken - брать;  
+give — gave - given - давать;  
+go — went - gone - идти;  
+run — ran - run - бежать;  
+walk — walked - walked - гулять;  
+come — came - come - приходить;  
+leave — left - left - покидать;  
+sit — sat - sat - сидеть;  
+stand — stood - stood - стоять;  
+make — made - made - делать;  
+know — knew - known - знать;  
+understand — understood - understood - понимать;  
+remember — remembered - remembered - помнить;  
+think — thought - thought - думать;  
+bring — brought - brought - приносить;  
+find — found - found - находить;  
+lose — lost - lost - терять;  
+use — used - used - использовать;  
+work — worked - worked - работать;  
+study — studied - studied - учиться;  
+learn — learned - learned - учить;  
+ask — asked - asked - спрашивать;  
+answer — answered - answered - ответить;  
+let — let - let - позволять;  
+help — helped - helped - помогать;  
+begin — began - begun - начинать;  
+play — played - played - играть;  
+write — wrote - writen - писать;  
+read — read - read - читать;  
+turn — turned - turned - поворачивать;  
+meet — met - met - встретить;  
+change — changed - changed - изменить;  
+stop — stopped - stopped - останавливать;  
+open — opened - opened - открыть;  
+close — closed - closed - закрыть.  
+
