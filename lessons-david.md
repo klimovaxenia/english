@@ -393,36 +393,36 @@ number — номер.
 ### Verbs
 1st form | 2nd form | 3d form | translation
 ---------|----------|---------|-------------
-be       | was/were | been    |  быть  
-have     | had      | had     | иметь  
-do       | did      |done     | делать  
-say      | said     | said    | сказать  
-can      | could    | been able | мочь  
-go       | went     | gone    | идти  
-see      | saw      | seen    | видеть  
-run      | ran      | run     | бежать  
-think    | thought  | thought | думать  
-write    | wrote    | writen  | писать  
-read     | read     | read    | читать  
-meet     | met      | met     | встретить  
-get      | got      | got/gotten | получать  
-come     | came     | come    |приходить  
-know     | knew     | known    | знать  
-understand | understood | understood | понимать  
-stand    | stood    | stood   | стоять  
-feel     | felt     | felt    | чувствовать  
-tell     | told     | told    | говорить  
-hear     | heard    | heard   | слышать  
-take     | took     | taken   | брать  
-give     | gave     | given   | давать  
-leave    | left      | left   | покидать  
-sit      | sat      | sat     | сидеть  
-make     | made     | made    | делать  
-bring    | brought  | brought | приносить  
-find     | found    | found   | находить  
-lose     | lost     | lost    | терять  
-let      | let      | let     | позволять  
-begin    | began    | begun   | начинать  
+be       | was/were | been    |  быть
+have     | had      | had     | иметь
+do       | did      |done     | делать
+say      | said     | said    | сказать
+can      | could    | been able | мочь
+go       | went     | gone    | идти
+see      | saw      | seen    | видеть
+run      | ran      | run     | бежать
+think    | thought  | thought | думать
+write    | wrote    | writen  | писать
+read     | read     | read    | читать
+meet     | met      | met     | встретить
+get      | got      | got/gotten | получать
+come     | came     | come    |приходить
+know     | knew     | known    | знать
+understand | understood | understood | понимать
+stand    | stood    | stood   | стоять
+feel     | felt     | felt    | чувствовать
+tell     | told     | told    | говорить
+hear     | heard    | heard   | слышать
+take     | took     | taken   | брать
+give     | gave     | given   | давать
+leave    | left      | left   | покидать
+sit      | sat      | sat     | сидеть
+make     | made     | made    | делать
+bring    | brought  | brought | приносить
+find     | found    | found   | находить
+lose     | lost     | lost    | терять
+let      | let      | let     | позволять
+begin    | began    | begun   | начинать
 
 
 use — used - used - использовать  
