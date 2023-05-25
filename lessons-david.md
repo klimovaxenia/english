@@ -391,55 +391,58 @@ answer — ответ;
 number — номер.  
 
 ### Verbs
+1st form | 2nd form | 3d form | translation
+---------|----------|---------|-------------
+be       | was/were | been    |  быть  
+have     | had      | had     | иметь  
+do       | did      |done     | делать  
+say      | said     | said    | сказать  
+can      | could    | been able | мочь  
+go       | went     | gone    | идти  
+see      | saw      | seen    | видеть  
+run      | ran      | run     | бежать  
+think    | thought  | thought | думать  
+write    | wrote    | writen  | писать  
+read     | read     | read    | читать  
+meet     | met      | met     | встретить  
+get      | got      | got/gotten | получать  
+come     | came     | come    |приходить  
+know     | knew     | known    | знать  
+understand | understood | understood | понимать  
+stand    | stood    | stood   | стоять  
+feel     | felt     | felt    | чувствовать  
+tell     | told     | told    | говорить  
+hear     | heard    | heard   | слышать  
+take     | took     | taken   | брать  
+give     | gave     | given   | давать  
+leave    | left      | left   | покидать  
+sit      | sat      | sat     | сидеть  
+make     | made     | made    | делать  
+bring    | brought  | brought | приносить  
+find     | found    | found   | находить  
+lose     | lost     | lost    | терять  
+let      | let      | let     | позволять  
+begin    | began    | begun   | начинать  
 
-be — was/were - been - быть;  
-have — had - had - иметь;  
-do — did - done - делать;  
-get — got - got/gotten - получать;  
-can — could - been able - мочь;  
-feel — felt - felt - чувствовать;  
-live — lived - lived - жить;  
-love — loved - lived - любить;  
-want — wamted - wanted - хотеть;  
-say — said - said - сказать;  
-tell — told - told - говорить;  
-see — saw - seen - видеть;  
-hear — heard - heard - слышать;  
-listen — listened - listened - слушать;  
-believe — belived - belived - верить;  
-take — took - taken - брать;  
-give — gave - given - давать;  
-go — went - gone - идти;  
-run — ran - run - бежать;  
-walk — walked - walked - гулять;  
-come — came - come - приходить;  
-leave — left - left - покидать;  
-sit — sat - sat - сидеть;  
-stand — stood - stood - стоять;  
-make — made - made - делать;  
-know — knew - known - знать;  
-understand — understood - understood - понимать;  
-remember — remembered - remembered - помнить;  
-think — thought - thought - думать;  
-bring — brought - brought - приносить;  
-find — found - found - находить;  
-lose — lost - lost - терять;  
-use — used - used - использовать;  
+
+use — used - used - использовать  
+listen   listened  listened  слушать  
 work — worked - worked - работать;  
 study — studied - studied - учиться;  
 learn — learned - learned - учить;  
 ask — asked - asked - спрашивать;  
 answer — answered - answered - ответить;  
-let — let - let - позволять;  
-help — helped - helped - помогать;  
-begin — began - begun - начинать;  
-play — played - played - играть;  
-write — wrote - writen - писать;  
-read — read - read - читать;  
-turn — turned - turned - поворачивать;  
-meet — met - met - встретить;  
 change — changed - changed - изменить;  
+believe — belived - belived - верить;  
+walk — walked - walked - гулять;  
+turn — turned - turned - поворачивать;  
+play — played - played - играть;  
+remember — remembered - remembered - помнить;  
+help — helped - helped - помогать;  
 stop — stopped - stopped - останавливать;  
 open — opened - opened - открыть;  
 close — closed - closed - закрыть.  
+live — lived - lived - жить;  
+love — loved - lived - любить;  
+want — wanted - wanted - хотеть;  
 
